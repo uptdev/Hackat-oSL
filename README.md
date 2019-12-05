@@ -1,5 +1,6 @@
 # Hackatão Português para o Software Livre  
-Único e o maior evento dedicado ao Software Livre Português.
+**Único e maior evento dedicado ao Software Livre Português.**
+
 O objetivo é reunir esforços e colaborar para o desenvolvimento de software livre português. Desde empacotar software público, desenvolver código utilizável por instituições públicas, até a escrever documentação de estratégias para adoção de software livre.
 
 ## Como começar  
@@ -9,4 +10,4 @@ Idealmente, é importante ver os issues que estejam sem atribuições e escolher
 3. No dia do evento, pega no issue e resolve-o.
 
 ## Evento  
-Datas. locais e formas ainda estão por planear.
+Datas, locais, formatos ainda estão por planear. Prémios e giveaways poderão vir a ser anunciados, fica atento. 
